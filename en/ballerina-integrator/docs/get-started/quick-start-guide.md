@@ -51,9 +51,9 @@ Let’s implement a simple service that can be used to query for availability of
 4. Start up VS Code, which is the recommended IDE to use in Ballerina Integrator integration scenarios.
    > **Tip**: Download and install [VS Code](https://code.visualstudio.com/Download) if you do not have it already.
 
-5. Find the extension for Ballerina in the VS Code marketplace. For instructions on installing and using it, see [The Visual Studio Code Extension](https://ballerina.io/learn/tools-ides/vscode-plugin/).
+5. Find the extension for Ballerina in the VS Code marketplace. For instructions on installing and using it, see [The Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=WSO2.ballerina-integrator).
 
-Once you have installed the extension, press `Command + Shift + P` in Mac or `Ctrl + Shift + P` in Linux and the following page appears.
+Once you have installed the extension, press `Command + Shift + P` in Mac or `Ctrl + Shift + P` in Linux and choose ***Ballerina Integrator: Dashboard*** the following page appears.
 
 ![alt text](../../assets/img/vs-code-landing.png)
 
